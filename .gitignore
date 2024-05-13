@@ -55,7 +55,6 @@ Build/*
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
-lore/
 
 !Build/*/PakBlacklist*.txt
 
